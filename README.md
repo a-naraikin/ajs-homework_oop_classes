@@ -1,3 +1,3 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/yygftd6cnhsx08gf?svg=true)](https://ci.appveyor.com/project/a-naraikin/ajs-homework-oop-classes)
 ## Домашняя работа «Классы, наследование: Классы»
-netology_ajs-homework_oop_classes
+n_ajs-hw.-7_oop_classes
